@@ -1,0 +1,15 @@
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\bin\Debug\Image Converter@sharp.exe.manifest
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\bin\Debug\Image Converter@sharp.application
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\bin\Debug\Image Converter@sharp.exe
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\bin\Debug\Image Converter@sharp.pdb
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\Image Converter@sharp.TrustInfo.xml
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\Image Converter@sharp.exe.manifest
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\Image Converter@sharp.application
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\Image Converter@sharp.exe
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\Image Converter@sharp.pdb
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\bin\Debug\Image Converter@sharp.exe.config
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\Image_Converter_sharp.Form1.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\Image_Converter_sharp.Properties.Resources.resources

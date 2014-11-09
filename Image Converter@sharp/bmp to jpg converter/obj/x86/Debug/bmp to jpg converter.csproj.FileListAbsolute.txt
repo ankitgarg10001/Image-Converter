@@ -1,0 +1,9 @@
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\bin\Debug\bmp to jpg converter.exe
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\bin\Debug\bmp to jpg converter.pdb
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\bmp_to_jpg_converter.Form1.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\bmp_to_jpg_converter.Properties.Resources.resources
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\bmp to jpg converter.exe
+C:\Users\Ankit\Documents\Visual Studio 2010\Projects\bmp to jpg converter\bmp to jpg converter\obj\x86\Debug\bmp to jpg converter.pdb
